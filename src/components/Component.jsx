@@ -1,5 +1,8 @@
 import React from 'react'
-import useFetch from '../customHooks/usefetch'
+import useFetch from '../customHooks/usefetch';
+import useFetch from '../customHooks/usefetch.js';
+
+
 
 function Component() {
 
